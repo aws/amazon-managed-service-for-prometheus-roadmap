@@ -11,5 +11,5 @@ If you think you’ve found a potential security issue with Amazon Managed Servi
 
 ## License 
 
-The issue content is made available under the Creative Commons Attribution-ShareAlike 4.0 International License, see also the [LICENSE](/LICENSE-SUMMARY) file.
+The issue content is made available under the Creative Commons Attribution-ShareAlike 4.0 International License, see also the [LICENSE-SUMMARY](/LICENSE-SUMMARY) file.
 The sample code is made available under the MIT-0 license, see also the [LICENSE-SAMPLECODE](/LICENSE-SAMPLECODE) file.
