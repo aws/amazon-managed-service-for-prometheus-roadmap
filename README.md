@@ -1,6 +1,6 @@
-## Amazon Managed Service for Prometheus Public Roadmap
+## Amazon Managed Service for Prometheus Product Feature Requests
 
-This is the public roadmap for [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/). We share information here about what we are working on and equally, you can use this repo to provide feedback and suggest features. Note that this roadmap presents features that we are considering developing, however it does remain subject to change from time to time. Equally, there is no guarantee that we will release these features or for the exact timeline in which we may release them.
+This the repo for product feature requests for [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/). We share information here about what we are working on and equally, you can use this repo to provide feedback and suggest features. Note that this repo presents features that customers like you have suggested, however it does remain subject to change from time to time. Equally, there is no guarantee that we will release these feature requests or the exact timeline in which we may release them.
 
 [Go to the roadmap now »](https://github.com/aws/amazon-managed-service-for-prometheus-roadmap/issues)
 
