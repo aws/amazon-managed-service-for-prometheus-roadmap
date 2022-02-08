@@ -1,6 +1,6 @@
 ## Amazon Managed Service for Prometheus Product Feature Requests
 
-This is the public space where you can add and influence feature requests for the Amazon Managed Service for Prometheus (https://aws.amazon.com/prometheus/) roadmap and allows all AWS customers to give direct feedback. Knowing about our upcoming products and priorities helps our customers plan. 
+This is the public space where you can add and influence feature requests for the [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/) roadmap and allows all AWS customers to give direct feedback. Knowing about our upcoming products and priorities helps our customers plan. 
 
 [Go to the feature list now »](https://github.com/aws/amazon-managed-service-for-prometheus-roadmap/issues)
 
@@ -23,7 +23,7 @@ A: We know that our customers are making decisions and plans based on what we ar
 A: Because job zero is security and operational stability, we can't provide specific target dates for features.
 
 #### Q: Is everything from the feature list on the roadmap?
-A: Feature requests will be considered for the Amazon Managed Service for Prometheus (https://aws.amazon.com/prometheus/) roadmap. 
+A: Feature requests will be considered for the [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/) roadmap. 
 
 #### Q: How can I provide feedback or ask for more information?
 A: Please open an issue!
